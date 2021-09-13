@@ -39,4 +39,4 @@ Step 1 - Park your car where you want it positioned.
 
 Step 2 - Set up the sensor so it directed at the license plate or any flat surface on the vehicle. If the sensor is not directed at a flat surface you will not be able to this circuit. The sensor emits sound waves. When the sound waves hit curved surfaces they do not travel back to the sensor or the sound waves are delayed.
 
-Step 3 - Use the buttons on the circuit to change the distance from the sensor to the car. (Make sure your car is where you want it positioned.) The red led indicates that the car is parked perfectly. NO OTHER LEDS SHOULD BE ON
+Step 3 - Use the buttons on the circuit to change the distance from the sensor to the car. (Make sure your car is where you want it positioned.) A solid red light indicates that the car is parked perfectly. NO OTHER LEDS SHOULD BE ON
