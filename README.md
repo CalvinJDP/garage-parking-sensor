@@ -6,7 +6,7 @@ This project is developed to help a person park their car in their garage in the
 
 ## Purpose
 
-In my garage it is quiet difficult to park a minivan perfectly. I would have to use the backup camera and use a reference on the floor in order to find a spot closest to the garage door. The van needs to be exceptionally close to the garage door as possible because there are cabinets in front of the car that are used frequently. If the car is too close to the cabinets it becomes difficult to open them. If the van is too far back I run the risk of damaging the car. So, I built a circuit that makes sure the van is parked perfectly, not too close to the cabinets and close enough to the garage door.
+Many garages are tight and small. If a person were to park a minivan in their small garage it would be difficult to make sure the van is not too close to the wall/garage door. If it is too close to the garage door, we run the risk of damaging the vehicle. In other cases, people have cabinets in front of their parked car. We want to make sure that we are not too close to the cabinets so that they are still accessible. This circuit helps the person park their car perfectly every time. It makes sure that the car is not too close to the garage door and not too close to the cabinets or wall.
 
 ## Components
 - 1x Arduino Nano or Arduino Uno
